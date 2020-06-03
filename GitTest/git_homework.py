@@ -1,2 +1,3 @@
 def test():
-    return print("conflict")
+    y = 5
+    return x
